@@ -1,5 +1,5 @@
 # Encoder/Compressor
-This program will have the ability of user-friendly compression, or encoding, of any text or file, as well as decompressing or decoding. Superencryption, including randomized superencryption, will also be something supported by this program.
+This program will have the ability of user-friendly compression, or encoding, of any text or file, as well as decompressing or decoding. Superencryption, including randomized superencryption, will also be something supported by this program. 
 
 
 # Notes
